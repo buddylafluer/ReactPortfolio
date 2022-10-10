@@ -10,7 +10,6 @@ function Footer () {
                     <a href="https://github.com/buddylafluer">Buddy LaFluer</a>
                 </p>
             </div>
-        
         </footer>
     )
     

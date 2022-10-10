@@ -3,7 +3,7 @@ import Header from './components/header';
 import Footer from './components/footer';
 import Portfolio from './components/portfolio';
 import {Routes, Route} from 'react-router-dom';
-import Home from './components/contact';
+import Home from './components/aboutme';
 import Contact from './components/contact';
 import Resume from './components/resume';
 import './App.css';
